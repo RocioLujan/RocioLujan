@@ -37,7 +37,7 @@ I am an undergraduate Software Development student in my second year of a three-
 ## Check out my Social Media
 
 
-<a href="https://www.linkedin.com/in/rocio-lujan-051315337/" >
+<a href="https://www.linkedin.com/in/rocio-celeste-lujan-b44a40227/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 
 
