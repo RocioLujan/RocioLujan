@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Software Development student in my second year of a three-year program. I am expanding my knowledge in both front-end and back-end development. I have foundational knowledge in programming with Python, PHP, SQL, and JavaScript, and I am currently gaining experience with tools like XAMPP, Laravel, Flask, Node.js, and MongoDB. I enjoy learning and creating innovative, useful, and creative projects.
+I am an undergraduate Software Development student in my third year of a three-year program. I am expanding my knowledge in both front-end and back-end development. I have foundational knowledge in programming with Python, PHP, SQL, and JavaScript, and I am currently gaining experience with tools like XAMPP, Laravel, Flask, Node.js, and MongoDB. I enjoy learning and creating innovative, useful, and creative projects.
 * **I am interested in web development and database management**
 - 🌱 I’m currently learning ...
   - Advanced JavaScript techniques
